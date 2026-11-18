@@ -1,17 +1,20 @@
 <div align="center">
 
-# Hey, I'm Biswadeep 👋
+# ⚡ BISWADEEP (BiswadeepInfinity)
 
-### **Student, System Designer & Software Developer**
-**Core Languages: Python • Java • JavaScript • C • SQL • Unreal Engine Visual Scripting**
+<a href="https://github.com/BiswadeepInfinity">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Student%2C+System+Designer+%26+Software+Developer;Python+%26+C+Specialist;Unreal+Engine+to+Graph+Neural+Networks;Low-Latency+Systems+%26+Data+Pipelines;Figma+%26+Miro+Collaborative+Architecture" alt="Typing SVG" />
+</a>
 
-```text
-Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Systems
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BiswadeepInfinity&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BiswadeepInfinity?label=Followers&style=flat-square&color=38bdf8" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BiswadeepInfinity?label=Stars&style=flat-square&color=f59e0b" alt="Stars" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=for-the-badge&logo=github)](https://github.com/BiswadeepInfinity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -19,11 +22,11 @@ Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Syst
 
 ## 🧩 About Me
 
-I'm a developer and system designer who loves figuring out how complex software actually works under the hood. 
+I'm a developer and system designer who loves understanding how complex software actually works under the hood. 
 
-My journey started with **game development inside Unreal Engine** using both **C** and **Visual Scripting (Blueprints)**. Building games taught me how to respect memory, handle real-time performance, and think about systems as a whole rather than isolated pieces. 
+My journey started with **game development inside Unreal Engine** using both **C** and **Visual Scripting (Blueprints)**. Building real-time games taught me how to respect memory, handle performance budgets, and think about systems as a whole rather than isolated pieces. 
 
-Later, I shifted into **machine learning, algorithms, and full-stack development** using **Python**, **Java**, and **JavaScript**, backed by structured **SQL** databases. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev and systems background, I like looking at problems differently—connecting concepts across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
+Later, I shifted into **machine learning, algorithms, and full-stack development** using **Python**, **Java**, and **JavaScript**, backed by structured **SQL** databases. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev and systems background, I approach problems differently—connecting concepts across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
 
 I also place huge emphasis on **collaborative design**: mapping out architectures, user flows, and wireframes in tools like **Figma and Miro** with teammates before writing code, ensuring what we build is intuitive and structurally sound.
 
@@ -44,7 +47,7 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 - **Java** — Object-oriented architecture, backend systems, robust application logic
 - **JavaScript** — Full-stack web development, dynamic client-side applications, APIs
 - **SQL** — Relational database modeling, query optimization, data persistence
-- **Unreal Engine Visual Scripting (Blueprints)** — Rapid gameplay logic, node-based event flows, interactive systems
+- **Unreal Engine Visual Scripting (Blueprints)** — Node-based logic, gameplay event flows, interactive systems
 
 ### Other Languages & Frameworks
 - `C++`, `TypeScript`
@@ -96,12 +99,48 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity & Contribution Visuals
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BiswadeepInfinity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswadeepInfinity&theme=tokyonight&hide_border=true" width="48%" />
+### 🎮 Contribution Activity Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/><br/>
+
+### 🧊 3D Isometric Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-night-rainbow.svg">
+</picture>
+
+</div>
+
+---
+
+## 📊 Analytics & Coding Stats
+
+<div align="center">
+
+### ⚡ Activity Trend
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiswadeepInfinity&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+<br/>
+
+### 🎯 Overview & Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiswadeepInfinity&theme=tokyonight" width="49%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiswadeepInfinity&theme=tokyonight" width="49%" alt="Language Breakdown" />
+
+<br/>
+
+### 🔥 Streak & Repository Summary
+<img src="https://github-readme-stats.vercel.app/api?username=BiswadeepInfinity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswadeepInfinity&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
 
 </div>
 
