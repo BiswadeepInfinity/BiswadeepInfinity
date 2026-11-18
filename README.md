@@ -22,7 +22,7 @@
 
 <!-- Synaptic Tetris Block (Clean, No Top Text Bar) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/synapse-tetris-matrix.svg" alt="Synaptic Tetris Block" width="100%" />
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/synapse-tetris-matrix.svg?v=2" alt="Synaptic Tetris Block" width="100%" />
 </div>
 
 ---
