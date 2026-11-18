@@ -3,7 +3,7 @@
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Student%2C+System+Designer+%26+Software+Developer;Python+%26+C+Specialist;Unreal+Engine+to+Graph+Neural+Networks;Low-Latency+Systems+%26+Data+Pipelines;Figma+%26+Miro+Collaborative+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=System+Design+%26+ML+Research+Engineer;Graph+Neural+Networks+%26+Continuous-Time+AI;ANN%2C+CNN%2C+GNN+%26+Statistical+Forecasting;Python+%26+C+Systems+Specialist;Real-Time+Data+Pipelines+%26+Game+Tech+Origins" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,80 +22,83 @@
 
 ## 🧩 About Me
 
-I'm a developer and system designer who loves understanding how complex software actually works under the hood. 
+I am a **System Designer and Machine Learning Research Engineer** working at the intersection of deep learning theory, mathematical modeling, and low-latency systems architecture.
 
-My journey started with **game development inside Unreal Engine** using both **C** and **Visual Scripting (Blueprints)**. Building real-time games taught me how to respect memory, handle performance budgets, and think about systems as a whole rather than isolated pieces. 
+My technical foundation began in **Unreal Engine game development** programming in **C** and **Visual Scripting (Blueprints)**, where computational efficiency, cache coherence, and hardware resource boundaries determine viability. As I expanded into artificial intelligence and research, this systems background gave me a distinct edge: while conventional ML often treats hardware and memory as infinite resources, I architect models from a first-principles systems perspective.
 
-Later, I shifted into **machine learning, algorithms, and full-stack development** using **Python**, **Java**, and **JavaScript**, backed by structured **SQL** databases. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev and systems background, I approach problems differently—connecting concepts across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
+I bridge mathematical AI foundations—spanning **Graph Neural Networks (GNNs), CNNs, ANNs, and statistical learning (ARIMA, ensemble methods, clustering)**—with low-level systems engineering in **Python** and **C** to build high-throughput, memory-bounded, production-ready machine learning solutions.
 
-I also place huge emphasis on **collaborative design**: mapping out architectures, user flows, and wireframes in tools like **Figma and Miro** with teammates before writing code, ensuring what we build is intuitive and structurally sound.
+I also leverage collaborative design tools like **Figma and Miro** to map out system architectures, mathematical flows, and data lifecycles with cross-functional teams prior to implementation.
 
-### What I Work On
-- **Primary Languages**: Developing software daily across **Python**, **Java**, **JavaScript**, **C**, and **SQL**, alongside **Visual Scripting in Unreal Engine**.
-- **Graph Neural Networks (GNNs)**: Finding practical ways to stop GNNs from running out of memory on big graphs.
-- **Pathfinding & AI**: Building search algorithms that let entities navigate simulated worlds without lag spikes.
-- **Design & Collaborative Architecture**: Wireframing, user-flow planning, and whiteboard system design alongside teams in Figma and Miro.
-- **Full-Stack & Web Applications**: Building functional web apps with relational databases, secure authentication, and clean APIs.
+### Research & Engineering Focus
+- **Graph Neural Networks & Temporal Modeling** — Formulating continuous-time state-space models (SSMs), closed-form complex rotation operators, and parallel associative prefix scans that eliminate redundant graph traversals.
+- **Deep Learning Architectures** — Developing and tuning GNNs, CNNs, and ANNs for structured, spatial, and relational datasets.
+- **Classical & Statistical ML** — Applying Linear/Logistic Regression, Random Forests, Decision Trees, KNN, K-Means Clustering, and ARIMA time-series forecasting.
+- **Memory-Bounded Systems & Pathfinding** — Designing sortingless spatial search architectures (CVRS) and custom data structures that prevent algorithmic memory explosion.
+- **Real-Time AI Telemetry Pipelines** — Building ultra-fast data ingestion pipelines feeding streaming datasets into planetary-scale AI models (GraphCast architectures).
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technical Stack
 
 ### Primary Languages
-- **Python** — Machine learning, data pipelines, backend prototyping, scientific scripting
-- **C** — Low-level memory management, high-performance algorithms, system architecture
-- **Java** — Object-oriented architecture, backend systems, robust application logic
-- **JavaScript** — Full-stack web development, dynamic client-side applications, APIs
-- **SQL** — Relational database modeling, query optimization, data persistence
-- **Unreal Engine Visual Scripting (Blueprints)** — Node-based logic, gameplay event flows, interactive systems
+- **Python** — Deep learning (PyTorch, PyG), scientific computing, statistical modeling, data pipelines
+- **C** — Low-level memory management, high-performance algorithm implementation, systems design
+- **Java** — Object-oriented systems, backend infrastructure, enterprise application architecture
+- **JavaScript** — Full-stack web platforms, client-side dynamics, API routing
+- **SQL** — Relational database modeling, query optimization, analytics pipelines
+- **Unreal Engine Visual Scripting (Blueprints)** — Real-time event flows, interactive logic, simulation mechanics
 
-### Other Languages & Frameworks
-- `C++`, `TypeScript`
-- `PyTorch`, `PyTorch Geometric`, `NumPy`, `pandas`, `Unreal Engine 5`, `Git`
+### Machine Learning, Deep Learning & Mathematics
+- **Deep Learning:** Graph Neural Networks (GNNs), Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Continuous-Time SSMs
+- **Classical Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors (KNN), Clustering (K-Means, Hierarchical)
+- **Time-Series & Forecasting:** ARIMA, Multi-Harmonic Fourier Encodings, Autoregressive Dynamics
+- **Frameworks & Libraries:** `PyTorch`, `PyTorch Geometric (PyG)`, `NumPy`, `SciPy`, `pandas`, `Scikit-Learn`
 
-### Design & Collaborative Work
-- **Design Tools:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
-- **Team Collaboration & Tools:** Linux / Windows, Git version control, Agile team workflows, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google Workspace, Microsoft 365.
-
----
-
-## 🚀 Projects I've Built
-
-### ⚡ [Time-Parameter for GNN (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-> *A lightweight GNN approach that fixes the memory bottleneck in dynamic graph learning.*
-
-- Standard Temporal GNNs have to traverse the whole graph history, which blows up training memory on large graphs.
-- Built a model in Python & PyTorch that tracks time gaps mathematically using continuous rotation, cutting down memory and skipping heavy recursive steps.
-- Runs super fast on regular CPUs (~19,000+ edges/sec) while still getting competitive accuracy on standard benchmarks.
-- Wrote a 35-test automated testing suite to verify that math invariants and causality never leak.
+### Systems, Design & Collaboration
+- **Supporting Languages:** `C++`, `TypeScript`
+- **Design & Prototyping:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
+- **Infrastructure & Workflow:** Git, Linux / Windows, Docker, Agile / Sprint Planning, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google Workspace, Microsoft 365.
 
 ---
 
-### 🗺️ Clustered Vertex Representative Search (CVRS)
-> *An experimental pathfinding algorithm aimed at breaking the memory barrier in autonomous navigation.*
+## 🚀 Research & Featured Projects
 
-- Inspired by research on sortingless shortest-path algorithms (Duan et al.).
-- Traditional pathfinding (like A* or Dijkstra) slows down and eats memory when hundreds of agents navigate at once because of priority queue sorting.
-- Implemented in C: grouping vertices into clustered representatives keeps memory usage bounded so simulated agents can find paths smoothly in game environments.
+### 🧠 [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+> *Research project resolving the training memory bottleneck in temporal graph neural networks.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+
+- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
+- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
+- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
+- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient flow.
+
+---
+
+### ⚡ Clustered Vertex Representative Search (CVRS)
+> *Memory-bounded spatial pathfinding architecture inspired by sortingless shortest-path theory.*
+[![Architecture](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
+
+- **Sortingless Search Paradigm**: Leveraged Duan et al.'s theoretical breakthroughs to eliminate priority-queue sorting overhead inherent to classical Dijkstra and A*.
+- **Hierarchical Representative Clustering**: Implemented in C: clusters dense spatial topologies into representative nodes, preventing memory explosion and frame-time spikes in multi-agent game environments (Unreal Engine).
 
 ---
 
 ### ⛈️ [Weather Intelligence as a Service (WIaaS)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
-> *An AI-powered weather data pipeline built with friends to deliver practical hazard alerts.*
+> *High-performance data ingestion pipeline feeding streaming weather data into planetary AI models.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
 
-- Built a data ingestion pipeline that pulls live weather datasets and feeds them into AI models (GraphCast architecture).
-- Focuses on real-world impact: warning about power grid failure risks, agricultural threats, or economic impact early.
-- Connects predictions to actual data and clear recovery steps so people can take action before damage occurs.
+- **Predictive Risk Modeling**: Ingests real-time meteorological feeds to forecast power grid failures, crop hazards, and logistics risks using GraphCast deep learning architecture.
+- **High-Throughput Streaming Ingestion**: Engineered an asynchronous data movement layer feeding global geospatial grids directly into hardware-accelerated model inference pipelines.
 
 ---
 
 ### 🍿 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
-> *A full-stack pop-culture review and socializing web app.*
+> *Full-stack pop-culture review, rating, and socialization web platform.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Infinity-Socials)
 
-- Designed user flows and UI components collaboratively in Figma before implementing the stack.
-- Built a complete web application with working user authentication, login sessions, and profile pages using JavaScript and SQL.
-- Designed a relational database to store users, movie/pop-culture reviews, ratings, and social interactions.
-- Clean front-end interface backed by working backend routes and database queries.
+- **Collaborative UX & Systems Design**: Prototyped user journey flows, wireframes, and relational schemas in Figma and Miro prior to implementation.
+- **Full-Stack Architecture**: Built a complete web application with authentication, session lifecycles, and relational database schema in SQL for user interaction and rating graphs.
 
 ---
 
@@ -147,5 +150,5 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 ---
 
 <div align="center">
-  <sub>Always learning, building, designing, and exploring new systems.</sub>
+  <sub>Bridging mathematical machine learning research with low-latency systems engineering.</sub>
 </div>
