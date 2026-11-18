@@ -1,16 +1,17 @@
 <div align="center">
 
-# ⚡ BISWADEEP (BiswadeepInfinity)
+# Hey, I'm Biswadeep 👋
 
-### **System Designer • AI/ML & Research Architect • Python & C Systems Developer**
+### **Student, System Designer & Software Developer**
+**Mainly working with Python & C**
 
 ```text
-Python & C Specialist • High-Performance Systems • Continuous-Time Graph AI • Spatial Research
+Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Systems
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=for-the-badge&logo=github)](https://github.com/BiswadeepInfinity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -18,127 +19,79 @@ Python & C Specialist • High-Performance Systems • Continuous-Time Graph AI 
 
 ## 🧩 About Me
 
-I design and implement **high-performance systems across the entire computing stack**—with a core specialization in **Python** and **C**—ranging from low-level memory efficiency and spatial pathfinding to continuous-time graph neural networks and distributed streaming pipelines.
+I'm a developer and system designer who loves figuring out how complex software actually works under the hood. 
 
-My foundation started inside **Unreal Engine**, programming in C and building real-time interactive game systems where computational budgets, cache coherence, and raw memory management determine survival. As I transitioned into full-stack platforms and machine learning research, this systems background gave me an unfair advantage: while many in ML operate with rigid abstractions, I approach problems as interconnected systems. Using **C** for memory-critical performance and **Python** for rapid mathematical prototyping and deep learning architectures, I leverage game-tech principles—such as data-oriented design, spatial acceleration, and sub-linear memory bounds—to invent elegant algorithmic solutions in artificial intelligence and distributed software.
+My journey started with **game development inside Unreal Engine**. Building games taught me how to respect memory, handle real-time performance, and think about systems as a whole rather than isolated pieces. 
 
-### Focus Areas
-- **Machine Learning & Graph Dynamics** — Formulating continuous-time complex rotations, closed-form semigroups, and parallel associative prefix scans in Python/PyTorch that eliminate redundant graph traversals.
-- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures, custom allocators, and memory-bounded spatial representations (CVRS) that bypass classical priority-queue sorting bottlenecks.
-- **Simulation & Game Engine Systems** — Architectural experience with Unreal Engine, spatial indexing, multi-agent simulation, and interactive game loops.
-- **Distributed Streaming & Full-Stack Infrastructure** — Building ultra-fast streaming data ingestion pipelines for real-time AI and resilient multi-tier web applications.
+Later, I shifted into **machine learning, algorithms, and full-stack development**. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev background in **C** and low-level performance, I like looking at problems differently—connecting ideas across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
 
----
-
-## 🛠️ Tech Stack
-
-### Primary Languages (Core Focus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Supporting Languages & Frameworks
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frameworks, Engines & ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyG](https://img.shields.io/badge/PyG_(PyTorch_Geometric)-3C2179?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-
-### Concepts & Paradigms
-![System Architecture](https://img.shields.io/badge/Concept-System_Architecture-blue?style=flat-square)
-![Continuous--Time SSMs](https://img.shields.io/badge/Concept-Continuous--Time_SSMs-purple?style=flat-square)
-![Parallel Associative Scans](https://img.shields.io/badge/Concept-Parallel_Associative_Scans-teal?style=flat-square)
-![Data--Oriented Design](https://img.shields.io/badge/Concept-Data--Oriented_Design_(DOD)-orange?style=flat-square)
-![Autonomous Pathfinding](https://img.shields.io/badge/Concept-Autonomous_Pathfinding-green?style=flat-square)
-![Sortingless Graph Search](https://img.shields.io/badge/Concept-Sortingless_Graph_Search-indigo?style=flat-square)
-![Full--Stack Architecture](https://img.shields.io/badge/Concept-Full--Stack_Architecture-red?style=flat-square)
-
-### Workflow, Collaboration & AI-Assisted Engineering
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AI Assisted / Vibe Coding](https://img.shields.io/badge/Workflow-AI_Assisted_%2F_Vibe_Coding-8A2BE2?style=flat-square)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+### What I Work On
+- **Python & C**: My two most-used languages. I use C when performance and memory matter, and Python for machine learning and fast prototyping.
+- **Graph Neural Networks (GNNs)**: Finding practical ways to stop GNNs from running out of memory on big graphs.
+- **Pathfinding & AI**: Building search algorithms that let entities navigate simulated worlds without lag spikes.
+- **Full-Stack & Web**: Building functional web apps with real databases, authentication, and clean APIs.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills & Tools
 
-### 🧠 Graph Intelligence & Machine Learning Systems
-
-#### 🌐 [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-> Resolves the fundamental memory bottleneck of heavy GNN architectures by eliminating whole-graph traversals via closed-form complex rotations and O(log K) parallel associative scans.
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-
-- **Closed-Form Continuous Rotation Operator**: Eliminates recursive neighborhood aggregation through complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
-- **Logarithmic Parallel Scans**: Bypasses sequential backpropagation through time (BPTT), cutting training time complexity from $O(K)$ down to $O(\log K)$ via parallel associative prefix scans in Python & PyTorch.
-- **Ultra-High Throughput**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on official Stanford/TGB Wikipedia benchmarks.
-- **Leak-Free Automated Audit Suite**: Built a comprehensive verification harness with **35 automated gates** ensuring mathematical invariance, contractive decay, and causality.
+- **Languages I Use Most:** `Python`, `C`
+- **Other Languages I Know:** `C++`, `Java`, `TypeScript`, `JavaScript`, `SQL`
+- **Libraries & Tech:** `PyTorch`, `PyTorch Geometric`, `NumPy`, `pandas`, `Unreal Engine 5`, `Git`
+- **How I Work:** Linux / Windows, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Miro, Google & Microsoft tools.
 
 ---
 
-### ⚡ Spatial Algorithms & Autonomous Pathfinding
+## 🚀 Projects I've Built
 
-#### 🗺️ Clustered Vertex Representative Search (CVRS)
-> High-performance pathfinding architecture in C & Python engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.
-[![Architecture](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
+### ⚡ [Time-Parameter for GNN (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+> *A lightweight GNN approach that fixes the memory bottleneck in dynamic graph learning.*
 
-- **Sortingless Search Paradigm**: Inspired by Duan et al.'s sortingless algorithm research to eliminate expensive priority-queue sorting overhead inherent to classical Dijkstra and A*.
-- **Hierarchical Representative Clustering**: Organizes massive spatial vertex topologies into clustered representative nodes in C, dramatically bounding peak search memory during path discovery.
-- **Multi-Agent Simulation Scalability**: Built to bridge spatial query bottlenecks in game engines (Unreal Engine 5), preventing frame-time degradation across dense agent environments.
-
----
-
-### ⛈️ Real-Time Ingestion & Planetary Data Systems
-
-#### 🛰️ [Weather Intelligence as a Service (WIaaS)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
-> Ultra-fast, high-performance data ingestion pipeline streaming planetary weather datasets directly into GraphCast AI models to protect critical societal infrastructure.
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
-
-- **Critical Threat Prediction**: Engineered to ingest streaming meteorological feeds and issue proactive automated alerts for power grid failure, agricultural risk, and economic disruption.
-- **Hardware-Accelerated Ingestion**: Built an ultra-fast streaming data pipeline feeding real-time global geospatial grids directly into GraphCast AI models hosted on accelerator hardware.
-- **Actionable Decision Support**: Couples predictive geospatial forecasts with concrete, data-backed operational playbooks for field and grid operators.
+- Standard Temporal GNNs have to traverse the whole graph history, which blows up training memory on large graphs.
+- Built a model that tracks time gaps mathematically using continuous rotation, cutting down memory and skipping heavy recursive steps.
+- Runs super fast on regular CPUs (~19,000+ edges/sec) while still getting competitive accuracy on standard benchmarks.
+- Wrote a 35-test automated testing suite to verify that math invariants and causality never leak.
 
 ---
 
-### 🍿 Full-Stack Platforms & Interactive Systems
+### 🗺️ Clustered Vertex Representative Search (CVRS)
+> *An experimental pathfinding algorithm aimed at breaking the memory barrier in autonomous navigation.*
 
-#### 🎬 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
-> An all-around pop-culture review, rating, and socialization platform with real-time community engagement.
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Infinity-Socials)
-
-- **Full-Stack Authentication & Identity**: Implemented secure authentication lifecycles, session persistence, and individualized user profiles.
-- **Relational Data Architecture**: Designed an optimized schema handling bi-directional social connections, media cataloging, and threaded multi-tier review discussions.
-- **Dynamic Interaction Engine**: Engineered clean, modular UI components coupled with robust RESTful routing and optimized database queries.
+- Inspired by research on sortingless shortest-path algorithms (Duan et al.).
+- Traditional pathfinding (like A* or Dijkstra) slows down and eats memory when hundreds of agents navigate at once because of priority queue sorting.
+- Grouping vertices into clustered representatives keeps memory usage bounded so simulated agents can find paths smoothly.
 
 ---
 
-## 📊 GitHub Stats & Activity
+### ⛈️ [Weather Intelligence as a Service (WIaaS)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
+> *An AI-powered weather data pipeline built with friends to deliver practical hazard alerts.*
+
+- Built a data ingestion pipeline that pulls live weather datasets and feeds them into AI models (GraphCast architecture).
+- Focuses on real-world impact: warning about power grid failure risks, agricultural threats, or economic impact early.
+- Connects predictions to actual data and clear recovery steps so people can take action before damage occurs.
+
+---
+
+### 🍿 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
+> *A full-stack pop-culture review and socializing web app.*
+
+- Built a complete web application with working user authentication, login sessions, and profile pages.
+- Designed a relational database to store users, movie/pop-culture reviews, ratings, and social interactions.
+- Clean front-end interface backed by working backend routes and database queries.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BiswadeepInfinity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswadeepInfinity&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswadeepInfinity&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
 </div>
 
 ---
 
 <div align="center">
-  <sub>Engineered with a systems mindset: from low-level C memory management to distributed Python graph models.</sub>
+  <sub>Always learning, building, and exploring new systems.</sub>
 </div>
