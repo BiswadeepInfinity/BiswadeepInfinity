@@ -26,13 +26,32 @@
 
 ---
 
+## 🕹️ System Architecture & ML Retro Arcade
+
+<div align="center">
+
+<!-- Animated Tetris Arcade Matrix Widget -->
+<picture>
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/tetris-arcade.svg" alt="Tetris Arcade Matrix" width="100%">
+</picture>
+
+<br/>
+
+<a href="https://tetris.com/play-tetris" target="_blank">
+  <img src="https://img.shields.io/badge/🎮_ARCADE_MODE-PLAY_TETRIS_IN_BROWSER-00F0FF?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Tetris" />
+</a>
+
+</div>
+
+---
+
 ## 🧩 About Me
 
-I am a **System Designer and Machine Learning Research Engineer** dedicated to breaking fundamental computational and memory barriers across two core domains: **Continuous-Time Graph Neural Networks** and **Autonomous Spatial Pathfinding**.
+I am a **System Designer and Machine Learning Research Engineer** dedicated to breaking fundamental computational and memory barriers across two core domains: **Autonomous Spatial Pathfinding** and **Continuous-Time Graph Neural Networks**.
 
 My two flagship research projects are:
-1. **RT-GNN (Time-Parameter for GNN)** — Eliminating the memory bottleneck and whole-graph traversal overhead in continuous-time temporal graph learning.
-2. **CVRS (Clustered Vertex Representative Search)** — Bypassing the priority-queue sorting memory barrier in autonomous multi-agent pathfinding.
+1. **CVRS (Clustered Vertex Representative Search)** — Bypassing the priority-queue sorting memory barrier in autonomous multi-agent pathfinding.
+2. **RT-GNN (Time-Parameter for GNN)** — Eliminating the memory bottleneck and whole-graph traversal overhead in continuous-time temporal graph learning.
 
 My technical foundation began in **Unreal Engine game development**, programming in **C** and **Visual Scripting (Blueprints)**. In real-time simulation engines, managing tick budgets and memory layouts is critical. While conventional ML workflows often treat hardware as an infinite resource, my systems background allows me to solve problems from a first-principles architectural perspective: designing algorithms that strictly bound memory without sacrificing accuracy.
 
@@ -75,18 +94,7 @@ I also use collaborative design tools like **Figma and Miro** to map out system 
 
 ## 🏆 Co-Flagship Research Projects
 
-### 🧠 1. [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-> *Resolving the fundamental memory and scaling bottleneck in continuous-time temporal graph learning.*
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-
-- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
-- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
-- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
-- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient flow.
-
----
-
-### 🗺️ 2. Clustered Vertex Representative Search (CVRS)
+### 🗺️ 1. Clustered Vertex Representative Search (CVRS)
 > *High-performance spatial pathfinding architecture engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.*
 [![Research](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
 
@@ -96,6 +104,29 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 - **Hierarchical Clustered Representatives**: Partitions dense continuous or topological spatial graphs into clustered representative vertices, bounding the active search space to local sub-graphs and representative transitions.
 - **Strict Memory Bounding**: Implemented in **C** for maximum cache locality and minimal memory overhead, preventing algorithmic memory explosion when scaling to thousands of concurrent autonomous searches.
 - **Game Engine & AI Integration**: Designed for direct integration with **Unreal Engine 5** navigation meshes and reinforcement learning (RL) agent planners.
+
+---
+
+### 🧠 2. [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+> *Resolving the fundamental memory and scaling bottleneck in continuous-time temporal graph learning.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+
+- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
+- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
+- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
+- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient preservation.
+
+---
+
+## 🎖️ Quest Log & Achievements
+
+| Rank | Achievement Badge | Quest Objective & Impact | Status |
+| :---: | :--- | :--- | :---: |
+| 💎 | **[Sortingless Champion]** | Formulate CVRS pathfinding, eliminating $O(V \log V)$ priority queue memory explosion for multi-agent simulation. | **UNLOCKED** |
+| 💎 | **[Semigroup Alchemist]** | Engineer closed-form complex rotation operators $T_{\Delta t}$ & $O(\log K)$ prefix scans in continuous-time graph AI. | **UNLOCKED** |
+| 🥇 | **[Leakage Slayer]** | Eradicate all 3 evaluation leakage channels on Stanford TGB benchmarks, certifying true inductive generalization. | **UNLOCKED** |
+| 🥇 | **[Tick-Budget Architect]** | Build low-level C memory structures preserving real-time simulation frame rates in Unreal Engine. | **UNLOCKED** |
+| 🥇 | **[35/35 Test Gatekeeper]** | Architect an exhaustive formal verification suite validating mathematical decay, semigroup, and gradient flow. | **UNLOCKED** |
 
 ---
 
@@ -119,7 +150,7 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 
 ---
 
-## 📈 Activity & Contribution Visuals
+## 📈 Gamified Visuals & Activity Matrix
 
 <div align="center">
 
@@ -128,6 +159,13 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/><br/>
+
+### 🧱 Neon Gitblock Analytics (Streak & Matrix Grid)
+<picture>
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-gitblock.svg" alt="Gitblock Stats &amp; Neon Grid" width="100%">
 </picture>
 
 <br/><br/>
@@ -167,5 +205,5 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 ---
 
 <div align="center">
-  <sub>Pioneering continuous-time graph AI and sortingless autonomous pathfinding through first-principles system design.</sub>
+  <sub>🕹️ Level 99 System Designer &amp; ML Research Engineer • Pioneering continuous-time graph AI and sortingless autonomous pathfinding.</sub>
 </div>
