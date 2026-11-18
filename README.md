@@ -1,16 +1,10 @@
 <div align="center">
 
-# ⚡ BISWADEEP (BiswadeepInfinity)
+# ⚡ BISWADEEP
+### Systems & Neurotech Engineer
 
-<!-- Static Headline with Exact Same Fira Code Cyan Font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=780&lines=Systems+%26+Neurotech+Engineer+%7C+ML+Researcher" alt="Systems & Neurotech Engineer | ML Researcher" />
-
-<br/>
-
-<!-- Dynamic Cycling Animation Below Static Header -->
-<a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=820&lines=Core+Major+%26+Focus%3A+Systems+%26+Neurotech;The+Quest%3A+Understanding+How+to+Understand;C.+elegans+Synapse+Prediction+%E2%86%92+Time-Parameter+for+GNNs;Co-Flagships%3A+CVRS+Sortingless+Pathfinding+%26+RT-GNN;Python+%26+C+Specialist+%7C+Low-Level+Memory+to+Neural+AI" alt="Typing SVG" />
-</a>
+<!-- Minimal Fira Code Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Core+Major%3A+Systems+%26+Neurotech;The+Quest%3A+Understanding+How+to+Understand;C.+elegans+Synapse+Prediction+%E2%86%92+Continuous-Time+GNNs;Memory-Bounded+Pathfinding+(CVRS)+%26+Semigroup+Dynamics+(RT-GNN);Python+%26+C+Specialist+%7C+Low-Level+Systems+to+Neural+AI" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BiswadeepInfinity&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -18,28 +12,9 @@
   <img src="https://img.shields.io/github/stars/BiswadeepInfinity?label=Stars&style=flat-square&color=f59e0b" alt="Stars" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=for-the-badge&logo=github)](https://github.com/BiswadeepInfinity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🕹️ Systems & Neurotech Retro Arcade
-
-<div align="center">
-
-<!-- Animated Tetris Arcade Matrix Widget -->
-<picture>
-  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/tetris-arcade.svg" alt="Tetris Arcade Matrix" width="100%">
-</picture>
-
-<br/>
-
-<a href="https://tetris.com/play-tetris" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_ARCADE_MODE-PLAY_TETRIS_IN_BROWSER-00F0FF?style=for-the-badge&logo=retroarch&logoColor=black" alt="Play Tetris" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
@@ -47,22 +22,22 @@
 
 ## 🧬 About Me
 
-I work between **Low-Level Systems Engineering and Neurotechnology**, driven by a foundational question: ***understanding how biological intelligence understands***.
+I work at the intersection of **Low-Level Systems Engineering and Neurotechnology**, driven by a central inquiry: ***understanding how biological intelligence understands***.
 
-My primary major and research dedication center on **Systems & Neurotech**. While engineering a **synapse prediction system for *Caenorhabditis elegans* (*C. elegans*)** to model continuous biological synaptic plasticity and neural information routing, I ran directly into a fundamental architectural roadblock: conventional graph neural networks (GNNs) and recurrent models suffered from catastrophic memory explosion when tracking continuous-time synaptic interactions across the connectome. To break this bottleneck, I formulated **RT-GNN (Time-Parameter for GNNs)**—introducing continuous-time complex rotation semigroups that model biological synaptic decay and temporal plasticity without recursive neighborhood expansions.
+My primary major and research focus center on **Systems & Neurotech**. While engineering a **synapse prediction system for the *Caenorhabditis elegans* (*C. elegans*) connectome** to model dynamic biological neural signaling, I encountered a critical architectural roadblock: conventional graph neural networks (GNNs) and recurrent models suffered from catastrophic memory overhead when attempting to model continuous-time spike intervals and synaptic plasticity without unrolling entire graphs into memory. To resolve this bottleneck, I formulated **RT-GNN (Time-Parameter for GNNs)**—introducing continuous-time complex rotation semigroups that capture biological synaptic decay and temporal dynamics in closed form.
 
-My technical philosophy combines neurotechnology with rigorous systems architecture:
-- **Neurotech & Biological Intelligence**: Investigating synaptic connectivity prediction (*C. elegans* connectome), continuous-time neural signaling, and biological temporal dynamics.
-- **Continuous-Time Neural AI (RT-GNN)**: Formulating continuous-time state-space models and logarithmic prefix scans that capture temporal dynamics with minimal memory footprint.
+My technical foundations unite neurotechnology with high-performance systems architecture:
+- **Neurotech & Biological Intelligence**: Investigating synaptic connectivity prediction (*C. elegans* connectome), continuous-time neural signaling, and biological computational mechanisms.
+- **Continuous-Time Neural AI (RT-GNN)**: Formulating continuous-time state-space representations and parallel associative prefix scans that model continuous graph dynamics with strict memory bounds.
 - **Memory-Bounded Systems & Pathfinding (CVRS)**: Designing sortingless spatial search architectures in **C** and **Unreal Engine 5** that eliminate priority-queue bottlenecks in multi-agent autonomous simulation.
 
-I program primarily in **Python** (PyTorch, PyG, ML pipelines) and **C** (memory optimization, cache-conscious data layouts), backed by deep working knowledge of **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I actively use collaborative design tools like **Figma and Miro** to map out systems architecture, state transitions, and neural event lifecycles.
+I program primarily in **Python** (PyTorch, PyG, ML pipelines) and **C** (memory management, cache-conscious data layouts), backed by working knowledge of **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I actively use collaborative design tools like **Figma and Miro** to map out systems architecture, state transitions, and neural event lifecycles.
 
 ### Research & Engineering Focus
-- **Neurotech & Biological Intelligence** — Synapse prediction systems (*C. elegans* connectome), continuous-time neural signaling, and understanding biological computational mechanisms.
-- **Continuous-Time Graph AI & Dynamics (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans to solve continuous synaptic temporal dynamics without memory explosion.
-- **Memory-Bounded Systems & Pathfinding (CVRS)** — Designing sortingless spatial search architectures and custom data structures that prevent algorithmic memory explosion in multi-agent navigation.
-- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures with cache-conscious layouts (DOD) eliminating tick-budget and latency bottlenecks.
+- **Neurotech & Biological Intelligence** — Synapse prediction systems (*C. elegans* connectome), continuous-time neural signaling, and biological temporal dynamics.
+- **Continuous-Time Graph AI & Dynamics (RT-GNN)** — Closed-form complex rotation semigroups and logarithmic parallel associative prefix scans solving continuous synaptic dynamics without memory explosion.
+- **Memory-Bounded Systems & Pathfinding (CVRS)** — Sortingless spatial search architectures and custom data structures that prevent algorithmic memory explosion in multi-agent navigation.
+- **Low-Level Systems & Memory Optimization** — High-efficiency C architectures with cache-conscious layouts (DOD) eliminating tick-budget and latency bottlenecks.
 - **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, Decision Trees, Random Forests, Clustering, and KNN for biological, relational, and temporal datasets.
 - **Simulation & Game Engine Systems** — Architectural experience with Unreal Engine, spatial navigation, tick budgets, and visual scripting.
 
@@ -87,7 +62,7 @@ I program primarily in **Python** (PyTorch, PyG, ML pipelines) and **C** (memory
 ### Systems, Design & Collaboration
 - **Supporting Languages:** `C++`, `TypeScript`
 - **Design & Prototyping:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
-- **Infrastructure & Workflow:** Git, Linux / Windows, Docker, Agile / Sprint Planning, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google Workspace, Microsoft 365.
+- **Infrastructure & Workflow:** Git, Linux / Windows, Docker, Agile / Sprint Planning.
 
 ---
 
@@ -118,19 +93,7 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 
 ---
 
-## 🎖️ Quest Log & Achievements
-
-| Rank | Achievement Badge | Quest Objective & Impact | Status |
-| :---: | :--- | :--- | :---: |
-| 💎 | **[Neurotech Architect]** | Solve *C. elegans* continuous synaptic prediction bottlenecks by inventing RT-GNN semigroup rotations. | **UNLOCKED** |
-| 💎 | **[Sortingless Champion]** | Formulate CVRS pathfinding, eliminating $O(V \log V)$ priority queue memory explosion for multi-agent simulation. | **UNLOCKED** |
-| 🥇 | **[Leakage Slayer]** | Eradicate all 3 evaluation leakage channels on Stanford TGB benchmarks, certifying true inductive generalization. | **UNLOCKED** |
-| 🥇 | **[Tick-Budget Architect]** | Build low-level C memory structures preserving real-time simulation frame rates in Unreal Engine. | **UNLOCKED** |
-| 🥇 | **[35/35 Test Gatekeeper]** | Architect an exhaustive formal verification suite validating mathematical decay, semigroup, and gradient flow. | **UNLOCKED** |
-
----
-
-## 🚀 Supporting Featured Projects
+## 🚀 Featured Engineering Systems
 
 ### ⛈️ [Weather Intelligence as a Service (WIaaS)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
 > *High-performance data ingestion pipeline feeding streaming weather data into planetary AI models.*
@@ -142,30 +105,30 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 ---
 
 ### 🍿 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
-> *Full-stack pop-culture review, rating, and socialization web platform.*
+> *Full-stack review, rating, and socialization web platform.*
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Infinity-Socials)
 
-- **Collaborative UX & Systems Design**: Prototyped user journey flows, wireframes, and relational schemas in Figma and Miro prior to implementation.
+- **Collaborative Systems Design**: Prototyped user journey flows, wireframes, and relational schemas in Figma and Miro prior to implementation.
 - **Full-Stack Architecture**: Built a complete web application with authentication, session lifecycles, and relational database schema in SQL for user interaction and rating graphs.
 
 ---
 
-## 📈 Gamified Visuals & Activity Matrix
+## 📈 Activity & Contribution Matrix
 
 <div align="center">
+
+### 🧱 Neon Block Analytics & Contribution Grid
+<picture>
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-gitblock.svg" alt="Gitblock Stats &amp; Neon Grid" width="100%">
+</picture>
+
+<br/><br/>
 
 ### 🎮 Contribution Activity Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/><br/>
-
-### 🧱 Neon Gitblock Analytics (Streak & Matrix Grid)
-<picture>
-  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/profile-3d-contrib/profile-gitblock.svg" alt="Gitblock Stats &amp; Neon Grid" width="100%">
 </picture>
 
 <br/><br/>
@@ -205,5 +168,5 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 ---
 
 <div align="center">
-  <sub>🧬 Level 99 Systems &amp; Neurotech Engineer • Unlocking biological intelligence through first-principles systems design.</sub>
+  <sub>Systems &amp; Neurotech Engineer • Unlocking biological intelligence through first-principles systems design.</sub>
 </div>
