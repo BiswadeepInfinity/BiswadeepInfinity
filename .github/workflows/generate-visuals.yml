@@ -23,6 +23,25 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Patch languages in 3D contribution SVGs (Python major, C next)
+        run: |
+          python -c '
+          import os, glob, re
+          for path in glob.glob("profile-3d-contrib/*.svg"):
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+              content = re.sub(r"<title>TypeScript\s*\d*</title>", "<title>Python</title>", content)
+              content = re.sub(r"<title>JavaScript\s*\d*</title>", "<title>C</title>", content)
+              content = re.sub(r"<title>Python\s*\d*</title>", "<title>JavaScript</title>", content)
+              content = content.replace(">TypeScript<", ">__PY_TOKEN__<").replace(">JavaScript<", ">__C_TOKEN__<").replace(">Python<", ">__JS_TOKEN__<")
+              content = content.replace(">__PY_TOKEN__<", ">Python<").replace(">__C_TOKEN__<", ">C<").replace(">__JS_TOKEN__<", ">JavaScript<")
+              content = content.replace("#3178c6", "__PY_COLOR__").replace("#2b7489", "__PY_COLOR__").replace("#f1e05a", "__C_COLOR__").replace("#3572A5", "__JS_COLOR__")
+              content = content.replace("fill:#3178c6", "fill:__PY_COLOR__").replace("fill:#2b7489", "fill:__PY_COLOR__").replace("fill:#f1e05a", "fill:__C_COLOR__").replace("fill:#3572A5", "fill:__JS_COLOR__")
+              content = content.replace("__PY_COLOR__", "#3572A5").replace("__C_COLOR__", "#555555").replace("__JS_COLOR__", "#f1e05a")
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(content)
+          '
+
       - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
