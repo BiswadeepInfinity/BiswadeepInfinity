@@ -3,7 +3,7 @@
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=System+Design+%26+ML+Research+Engineer;Graph+Neural+Networks+%26+Continuous-Time+AI;ANN%2C+CNN%2C+GNN+%26+Statistical+Forecasting;Python+%26+C+Systems+Specialist;Real-Time+Data+Pipelines+%26+Game+Tech+Origins" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Flagship+Research%3A+CVRS+Autonomous+Pathfinding;System+Design+%26+ML+Research+Engineer;Python+%26+C+Systems+Specialist;Breaking+the+Memory+Barrier+in+Spatial+Search;Game+Dev+(Unreal+Engine)+to+Graph+AI" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,36 +22,38 @@
 
 ## 🧩 About Me
 
-I am a **System Designer and Machine Learning Research Engineer** working at the intersection of deep learning theory, mathematical modeling, and low-latency systems architecture.
+I am a **System Designer and Machine Learning Research Engineer** focusing on breaking computational and memory barriers in spatial pathfinding, graph intelligence, and autonomous systems.
 
-My technical foundation began in **Unreal Engine game development** programming in **C** and **Visual Scripting (Blueprints)**, where computational efficiency, cache coherence, and hardware resource boundaries determine viability. As I expanded into artificial intelligence and research, this systems background gave me a distinct edge: while conventional ML often treats hardware and memory as infinite resources, I architect models from a first-principles systems perspective.
+My primary research and engineering project is **CVRS (Clustered Vertex Representative Search)**—an architecture built to eliminate the memory explosion problem in autonomous pathfinding by leveraging sortingless graph theory.
 
-I bridge mathematical AI foundations—spanning **Graph Neural Networks (GNNs), CNNs, ANNs, and statistical learning (ARIMA, ensemble methods, clustering)**—with low-level systems engineering in **Python** and **C** to build high-throughput, memory-bounded, production-ready machine learning solutions.
+My technical journey started in **Unreal Engine game development**, programming in **C** and **Visual Scripting (Blueprints)**. In real-time game engines, pathfinding thousands of dynamic entities under strict 16ms frame-time budgets immediately reveals where traditional algorithms fail: priority-queue sorting and open/closed sets consume massive memory and cause cache thrashing. By connecting cutting-edge theoretical graph research (Duan et al.'s sortingless algorithms) with practical systems engineering, I design algorithms that bound memory without sacrificing search fidelity.
 
-I also leverage collaborative design tools like **Figma and Miro** to map out system architectures, mathematical flows, and data lifecycles with cross-functional teams prior to implementation.
+I bridge these spatial foundations with deep learning and statistical modeling—spanning **Graph Neural Networks (GNNs), CNNs, ANNs, time-series forecasting (ARIMA), and classical ML (Random Forests, Clustering, KNN)**—working primarily in **Python** and **C**.
+
+I also use collaborative design tools like **Figma and Miro** to map out system architectures, state machines, and data lifecycles with cross-functional teams prior to implementation.
 
 ### Research & Engineering Focus
-- **Graph Neural Networks & Temporal Modeling** — Formulating continuous-time state-space models (SSMs), closed-form complex rotation operators, and parallel associative prefix scans that eliminate redundant graph traversals.
-- **Deep Learning Architectures** — Developing and tuning GNNs, CNNs, and ANNs for structured, spatial, and relational datasets.
-- **Classical & Statistical ML** — Applying Linear/Logistic Regression, Random Forests, Decision Trees, KNN, K-Means Clustering, and ARIMA time-series forecasting.
-- **Memory-Bounded Systems & Pathfinding** — Designing sortingless spatial search architectures (CVRS) and custom data structures that prevent algorithmic memory explosion.
-- **Real-Time AI Telemetry Pipelines** — Building ultra-fast data ingestion pipelines feeding streaming datasets into planetary-scale AI models (GraphCast architectures).
+- **Autonomous Pathfinding & Spatial Architecture (CVRS)** — Developing sortingless graph search architectures that eliminate priority-queue bottlenecks and bound memory consumption during large-scale spatial navigation.
+- **Graph Neural Networks & Temporal Systems** — Designing continuous-time state-space models (SSMs) and parallel associative prefix scans (RT-GNN) that eliminate recursive graph traversals.
+- **Low-Level Systems & Memory Optimization** — Writing high-performance C implementations with cache-conscious memory layouts and data-oriented design (DOD).
+- **Deep Learning & Statistical Modeling** — Applying GNNs, CNNs, ANNs, ARIMA time-series forecasting, and ensemble methods to complex relational datasets.
+- **Real-Time Data Ingestion Pipelines** — Engineering streaming pipelines feeding real-time geospatial telemetry into planetary AI models (GraphCast architectures).
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### Primary Languages
-- **Python** — Deep learning (PyTorch, PyG), scientific computing, statistical modeling, data pipelines
-- **C** — Low-level memory management, high-performance algorithm implementation, systems design
-- **Java** — Object-oriented systems, backend infrastructure, enterprise application architecture
+- **Python** — Machine learning (PyTorch, PyG), mathematical prototyping, data pipelines, statistical modeling
+- **C** — Low-level memory management, high-performance algorithm implementation, spatial data structures
+- **Java** — Object-oriented architecture, backend services, enterprise application structure
 - **JavaScript** — Full-stack web platforms, client-side dynamics, API routing
-- **SQL** — Relational database modeling, query optimization, analytics pipelines
-- **Unreal Engine Visual Scripting (Blueprints)** — Real-time event flows, interactive logic, simulation mechanics
+- **SQL** — Relational database modeling, query optimization, analytics persistence
+- **Unreal Engine Visual Scripting (Blueprints)** — Real-time gameplay logic, event dispatchers, simulation mechanics
 
 ### Machine Learning, Deep Learning & Mathematics
 - **Deep Learning:** Graph Neural Networks (GNNs), Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Continuous-Time SSMs
-- **Classical Machine Learning:** Linear Regression, Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors (KNN), Clustering (K-Means, Hierarchical)
+- **Classical ML & Statistics:** Linear/Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors (KNN), K-Means Clustering, Hierarchical Clustering
 - **Time-Series & Forecasting:** ARIMA, Multi-Harmonic Fourier Encodings, Autoregressive Dynamics
 - **Frameworks & Libraries:** `PyTorch`, `PyTorch Geometric (PyG)`, `NumPy`, `SciPy`, `pandas`, `Scikit-Learn`
 
@@ -62,7 +64,20 @@ I also leverage collaborative design tools like **Figma and Miro** to map out sy
 
 ---
 
-## 🚀 Research & Featured Projects
+## 🚀 Flagship Research & Featured Projects
+
+### 🗺️ [FLAGSHIP] Clustered Vertex Representative Search (CVRS)
+> *High-performance spatial pathfinding architecture engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.*
+[![Research](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
+
+Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical variants) rely heavily on priority queues (min-heaps). In multi-agent autonomous navigation—such as hundreds of agents pathfinding concurrently in Unreal Engine or robotic fleet simulation—managing sorting states for every agent creates an **exponential memory footprint**, severe cache misses, and frame-time spikes.
+
+- **Bypassing the Sorting Barrier**: Inspired by Ran Duan et al.'s breakthrough research on sortingless shortest-path algorithms, CVRS avoids globally sorting candidate vertices in a priority queue during path traversal.
+- **Hierarchical Clustered Representatives**: Partitions dense continuous or topological spatial graphs into clustered representative vertices, bounding the active search space to local sub-graphs and representative transitions.
+- **Strict Memory Bounding**: Implemented in **C** for maximum cache locality and minimal memory overhead, preventing algorithmic memory explosion when scaling to thousands of concurrent autonomous searches.
+- **Game Engine & AI Integration**: Designed for direct integration with **Unreal Engine 5** navigation meshes and reinforcement learning (RL) agent planners.
+
+---
 
 ### 🧠 [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
 > *Research project resolving the training memory bottleneck in temporal graph neural networks.*
@@ -72,15 +87,6 @@ I also leverage collaborative design tools like **Figma and Miro** to map out sy
 - **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
 - **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
 - **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient flow.
-
----
-
-### ⚡ Clustered Vertex Representative Search (CVRS)
-> *Memory-bounded spatial pathfinding architecture inspired by sortingless shortest-path theory.*
-[![Architecture](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
-
-- **Sortingless Search Paradigm**: Leveraged Duan et al.'s theoretical breakthroughs to eliminate priority-queue sorting overhead inherent to classical Dijkstra and A*.
-- **Hierarchical Representative Clustering**: Implemented in C: clusters dense spatial topologies into representative nodes, preventing memory explosion and frame-time spikes in multi-agent game environments (Unreal Engine).
 
 ---
 
@@ -150,5 +156,5 @@ I also leverage collaborative design tools like **Figma and Miro** to map out sy
 ---
 
 <div align="center">
-  <sub>Bridging mathematical machine learning research with low-latency systems engineering.</sub>
+  <sub>Bridging mathematical graph theory and sortingless pathfinding with low-latency systems engineering.</sub>
 </div>
