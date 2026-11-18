@@ -2,10 +2,10 @@
 
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
-### **System Designer • AI/ML & Research Architect • Game Tech to Distributed Systems**
+### **System Designer • AI/ML & Research Architect • Python & C Systems Developer**
 
 ```text
-High-Performance Systems • Continuous-Time Graph AI • Spatial & Pathfinding Research
+Python & C Specialist • High-Performance Systems • Continuous-Time Graph AI • Spatial Research
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-BiswadeepInfinity-181717?style=for-the-badge&logo=github)](https://github.com/BiswadeepInfinity)
@@ -18,13 +18,13 @@ High-Performance Systems • Continuous-Time Graph AI • Spatial & Pathfinding 
 
 ## 🧩 About Me
 
-I design and implement **high-performance systems across the entire computing stack**—ranging from game engine tick budgets and spatial pathfinding to continuous-time graph neural networks and distributed streaming pipelines.
+I design and implement **high-performance systems across the entire computing stack**—with a core specialization in **Python** and **C**—ranging from low-level memory efficiency and spatial pathfinding to continuous-time graph neural networks and distributed streaming pipelines.
 
-My interest started inside **Unreal Engine**, building real-time game systems where computational budgets, cache coherence, and memory allocation boundaries determine survival. As I transitioned into full-stack platforms and machine learning research, this systems background gave me an unfair advantage: while many in ML operate with rigid abstractions, I approach problems as interconnected systems. I leverage low-level game-tech principles—such as data-oriented design, spatial acceleration, and sub-linear memory bounds—to invent elegant algorithmic solutions in artificial intelligence and distributed software.
+My foundation started inside **Unreal Engine**, programming in C and building real-time interactive game systems where computational budgets, cache coherence, and raw memory management determine survival. As I transitioned into full-stack platforms and machine learning research, this systems background gave me an unfair advantage: while many in ML operate with rigid abstractions, I approach problems as interconnected systems. Using **C** for memory-critical performance and **Python** for rapid mathematical prototyping and deep learning architectures, I leverage game-tech principles—such as data-oriented design, spatial acceleration, and sub-linear memory bounds—to invent elegant algorithmic solutions in artificial intelligence and distributed software.
 
 ### Focus Areas
-- **Machine Learning & Graph Dynamics** — Formulating continuous-time complex rotations, closed-form semigroups, and parallel associative prefix scans that eliminate redundant graph traversals.
-- **Autonomous Pathfinding & Spatial Search** — Designing memory-bounded spatial representations (CVRS) that bypass classical priority-queue sorting bottlenecks.
+- **Machine Learning & Graph Dynamics** — Formulating continuous-time complex rotations, closed-form semigroups, and parallel associative prefix scans in Python/PyTorch that eliminate redundant graph traversals.
+- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures, custom allocators, and memory-bounded spatial representations (CVRS) that bypass classical priority-queue sorting bottlenecks.
 - **Simulation & Game Engine Systems** — Architectural experience with Unreal Engine, spatial indexing, multi-agent simulation, and interactive game loops.
 - **Distributed Streaming & Full-Stack Infrastructure** — Building ultra-fast streaming data ingestion pipelines for real-time AI and resilient multi-tier web applications.
 
@@ -32,9 +32,11 @@ My interest started inside **Unreal Engine**, building real-time game systems wh
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+### Primary Languages (Core Focus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Supporting Languages & Frameworks
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -80,7 +82,7 @@ My interest started inside **Unreal Engine**, building real-time game systems wh
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
 
 - **Closed-Form Continuous Rotation Operator**: Eliminates recursive neighborhood aggregation through complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
-- **Logarithmic Parallel Scans**: Bypasses sequential backpropagation through time (BPTT), cutting training time complexity from $O(K)$ down to $O(\log K)$ via parallel associative prefix scans.
+- **Logarithmic Parallel Scans**: Bypasses sequential backpropagation through time (BPTT), cutting training time complexity from $O(K)$ down to $O(\log K)$ via parallel associative prefix scans in Python & PyTorch.
 - **Ultra-High Throughput**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on official Stanford/TGB Wikipedia benchmarks.
 - **Leak-Free Automated Audit Suite**: Built a comprehensive verification harness with **35 automated gates** ensuring mathematical invariance, contractive decay, and causality.
 
@@ -89,11 +91,11 @@ My interest started inside **Unreal Engine**, building real-time game systems wh
 ### ⚡ Spatial Algorithms & Autonomous Pathfinding
 
 #### 🗺️ Clustered Vertex Representative Search (CVRS)
-> High-performance pathfinding architecture engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.
+> High-performance pathfinding architecture in C & Python engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.
 [![Architecture](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
 
 - **Sortingless Search Paradigm**: Inspired by Duan et al.'s sortingless algorithm research to eliminate expensive priority-queue sorting overhead inherent to classical Dijkstra and A*.
-- **Hierarchical Representative Clustering**: Organizes massive spatial vertex topologies into clustered representative nodes, dramatically bounding peak search memory during path discovery.
+- **Hierarchical Representative Clustering**: Organizes massive spatial vertex topologies into clustered representative nodes in C, dramatically bounding peak search memory during path discovery.
 - **Multi-Agent Simulation Scalability**: Built to bridge spatial query bottlenecks in game engines (Unreal Engine 5), preventing frame-time degradation across dense agent environments.
 
 ---
@@ -138,5 +140,5 @@ My interest started inside **Unreal Engine**, building real-time game systems wh
 ---
 
 <div align="center">
-  <sub>Engineered with a systems mindset: from low-level cache coherence and tick budgets to distributed graph models.</sub>
+  <sub>Engineered with a systems mindset: from low-level C memory management to distributed Python graph models.</sub>
 </div>
