@@ -4,7 +4,7 @@
 ### Systems & Neurotech Engineer • Neurocognition Researcher
 
 <!-- Minimal Fira Code Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Core+Focus%3A+Systems%2C+Neurotech+%26+Neurocognition;The+Inquiry%3A+Understanding+How+Cognition+Understands;C.+elegans+Synaptic+Dynamics+%E2%86%92+Continuous-Time+GNNs;Memory-Bounded+Pathfinding+(CVRS)+%26+Semigroup+AI+(RT-GNN);Python+%26+C+Specialist+%7C+Low-Level+Systems+to+Neural+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Core+Focus%3A+Systems%2C+Neurotech+%26+Neurocognition;The+Inquiry%3A+Understanding+How+Cognition+Understands;C.+elegans+Synaptic+Dynamics+%E2%86%92+Continuous-Time+GNNs;Memory-Bounded+Pathfinding+(CVRS)+%26+Semigroup+AI+(RT-GNN);Python+(Primary)+%26+C+(Systems)+Specialist" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BiswadeepInfinity&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
@@ -31,7 +31,7 @@ My technical foundations unite computational neurocognition with high-performanc
 - **Continuous-Time Neural AI (RT-GNN)**: Formulating continuous-time state-space representations and parallel associative prefix scans that model continuous cognitive and graph dynamics with strict memory bounds.
 - **Memory-Bounded Systems & Pathfinding (CVRS)**: Designing sortingless spatial search architectures in **C** and **Unreal Engine 5** that eliminate priority-queue bottlenecks in multi-agent autonomous simulation.
 
-I program primarily in **Python** (PyTorch, PyG, ML & neurotech pipelines) and **C** (memory management, cache-conscious data layouts), backed by working knowledge of **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I actively use collaborative design tools like **Figma and Miro** to map out systems architecture, state transitions, and neural event lifecycles.
+I program primarily in **Python** (primary major language: PyTorch, PyG, ML & neurotech modeling) and **C** (next major language: low-level memory management, cache-conscious data layouts), backed by working knowledge of **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I actively use collaborative design tools like **Figma and Miro** to map out systems architecture, state transitions, and neural event lifecycles.
 
 ### Research & Engineering Focus
 - **Neurocognition & Biological Intelligence** — Synapse prediction systems (*C. elegans* connectome), cognitive neural signaling, continuous-time synaptic plasticity, and investigating how biological neural networks produce cognitive understanding.
@@ -46,8 +46,8 @@ I program primarily in **Python** (PyTorch, PyG, ML & neurotech pipelines) and *
 ## 🛠️ Technical Stack
 
 ### Primary Languages
-- **Python** — Neurotech & cognitive modeling (PyTorch, PyG), continuous-time graph models, statistical pipelines
-- **C** — Low-level memory management, high-performance algorithm implementation, spatial data structures
+- **Python** *(Major / Primary)* — Neurotech & cognitive modeling (PyTorch, PyG), continuous-time graph models, statistical pipelines
+- **C** *(Next Major / Low-Level Systems)* — Low-level memory management, high-performance algorithm implementation (CVRS), spatial data structures
 - **Java** — Object-oriented architecture, backend services, enterprise application structure
 - **JavaScript** — Full-stack web platforms, client-side dynamics, API routing
 - **SQL** — Relational database modeling, query optimization, analytics persistence
@@ -60,7 +60,7 @@ I program primarily in **Python** (PyTorch, PyG, ML & neurotech pipelines) and *
 - **Frameworks & Libraries:** `PyTorch`, `PyTorch Geometric (PyG)`, `NumPy`, `SciPy`, `pandas`, `Scikit-Learn`
 
 ### Systems, Design & Collaboration
-- **Supporting Languages:** `C++`, `TypeScript`
+- **Supporting Languages:** `C++`
 - **Design & Prototyping:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
 - **Infrastructure & Workflow:** Git, Linux / Windows, Docker, Agile / Sprint Planning.
 
