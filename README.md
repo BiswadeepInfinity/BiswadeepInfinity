@@ -20,6 +20,13 @@
 
 ---
 
+<!-- Reskinned Minimal Neuroscience + Tetris Synaptic Lattice Widget -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/synapse-tetris-matrix.svg" alt="Synaptic Tetris Matrix" width="100%" />
+</div>
+
+---
+
 ## 🧬 About Me
 
 I work at the convergence of **Low-Level Systems Engineering, Neurotechnology, and Neurocognition**, driven by a foundational inquiry: ***understanding how biological cognitive systems understand***.
