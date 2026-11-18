@@ -2,8 +2,14 @@
 
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
+<!-- Static Headline with Exact Same Fira Code Cyan Font -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=650&lines=System+Designer+%26+ML+Research+Engineer" alt="System Designer & ML Research Engineer" />
+
+<br/>
+
+<!-- Dynamic Cycling Animation Below Static Header -->
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Flagship+Research%3A+RT-GNN+%26+CVRS+Pathfinding;System+Design+%26+ML+Research+Engineer;Python+%26+C+Specialist;Continuous-Time+Graph+AI+%26+Sortingless+Search;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&lines=Co-Flagship+Research%3A+RT-GNN+%26+CVRS+Pathfinding;Continuous-Time+Graph+AI+%26+Sortingless+Search;Python+%26+C+Specialist;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
