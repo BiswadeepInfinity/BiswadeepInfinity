@@ -3,13 +3,13 @@
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
 <!-- Static Headline with Exact Same Fira Code Cyan Font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=750&lines=System+Designer+%26+ML+Research+Engineer" alt="System Designer & ML Research Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=780&lines=Systems+%26+Neurotech+Engineer+%7C+ML+Researcher" alt="Systems & Neurotech Engineer | ML Researcher" />
 
 <br/>
 
 <!-- Dynamic Cycling Animation Below Static Header -->
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Co-Flagship+Research%3A+CVRS+Pathfinding+%26+RT-GNN;Sortingless+Spatial+Search+%26+Continuous-Time+Graph+AI;Python+%26+C+Specialist+%7C+Java+%7C+JS+%7C+SQL;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=820&lines=Core+Major+%26+Focus%3A+Systems+%26+Neurotech;The+Quest%3A+Understanding+How+to+Understand;C.+elegans+Synapse+Prediction+%E2%86%92+Time-Parameter+for+GNNs;Co-Flagships%3A+CVRS+Sortingless+Pathfinding+%26+RT-GNN;Python+%26+C+Specialist+%7C+Low-Level+Memory+to+Neural+AI" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-## 🕹️ System Architecture & ML Retro Arcade
+## 🕹️ Systems & Neurotech Retro Arcade
 
 <div align="center">
 
@@ -45,42 +45,41 @@
 
 ---
 
-## 🧩 About Me
+## 🧬 About Me
 
-I am a **System Designer and Machine Learning Research Engineer** dedicated to breaking fundamental computational and memory barriers across two core domains: **Autonomous Spatial Pathfinding** and **Continuous-Time Graph Neural Networks**.
+I work at the convergence of **Low-Level Systems Engineering and Neurotechnology**, driven by a foundational inquiry: ***understanding how biological intelligence understands***.
 
-My two flagship research projects are:
-1. **CVRS (Clustered Vertex Representative Search)** — Bypassing the priority-queue sorting memory barrier in autonomous multi-agent pathfinding.
-2. **RT-GNN (Time-Parameter for GNN)** — Eliminating the memory bottleneck and whole-graph traversal overhead in continuous-time temporal graph learning.
+My primary major and research dedication center on **Systems & Neurotech**. While engineering a **synapse prediction system for *Caenorhabditis elegans* (*C. elegans*)** to model continuous biological synaptic plasticity and neural information routing, I ran directly into a fundamental architectural roadblock: conventional graph neural networks (GNNs) and recurrent models suffered from catastrophic memory explosion when tracking continuous-time synaptic interactions across the connectome. To break this bottleneck, I formulated **RT-GNN (Time-Parameter for GNNs)**—introducing continuous-time complex rotation semigroups that model biological synaptic decay and temporal plasticity without recursive neighborhood expansions.
 
-My technical foundation began in **Unreal Engine game development**, programming in **C** and **Visual Scripting (Blueprints)**. In real-time simulation engines, managing tick budgets and memory layouts is critical. While conventional ML workflows often treat hardware as an infinite resource, my systems background allows me to solve problems from a first-principles architectural perspective: designing algorithms that strictly bound memory without sacrificing accuracy.
+My technical philosophy combines neurotechnology with rigorous systems architecture:
+- **Neurotech & Biological Intelligence**: Investigating synaptic connectivity prediction (*C. elegans* connectome), continuous-time neural signaling, and biological temporal dynamics.
+- **Continuous-Time Neural AI (RT-GNN)**: Formulating continuous-time state-space models and logarithmic prefix scans that capture temporal dynamics with minimal memory footprint.
+- **Memory-Bounded Systems & Pathfinding (CVRS)**: Designing sortingless spatial search architectures in **C** and **Unreal Engine 5** that eliminate priority-queue bottlenecks in multi-agent autonomous simulation.
 
-I bridge these foundations across **Graph Neural Networks (GNNs), CNNs, ANNs, time-series forecasting (ARIMA), and classical ML (Random Forests, Clustering, KNN)**—working primarily with **Python** and **C**, with extensive experience in **Java**, **JavaScript**, and **SQL**.
-
-I also use collaborative design tools like **Figma and Miro** to map out system architectures, state machines, and data lifecycles with cross-functional teams prior to implementation.
+I program primarily in **Python** (PyTorch, PyG, ML pipelines) and **C** (memory optimization, cache-conscious data layouts), backed by deep working knowledge of **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I actively use collaborative design tools like **Figma and Miro** to map out systems architecture, state transitions, and neural event lifecycles.
 
 ### Research & Engineering Focus
-- **Memory-Bounded Systems & Pathfinding (CVRS)** — Designing sortingless spatial search architectures and custom data structures that prevent algorithmic memory explosion.
-- **Continuous-Time Graph AI & Dynamics (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans that eliminate redundant graph traversals.
-- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures with cache-conscious memory layouts and data-oriented design (DOD) to eliminate tick budget and latency bottlenecks.
-- **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, Decision Trees, Random Forests, Clustering, and KNN for complex relational and temporal datasets.
+- **Neurotech & Biological Intelligence** — Synapse prediction systems (*C. elegans* connectome), continuous-time neural signaling, and understanding biological computational mechanisms.
+- **Continuous-Time Graph AI & Dynamics (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans to solve continuous synaptic temporal dynamics without memory explosion.
+- **Memory-Bounded Systems & Pathfinding (CVRS)** — Designing sortingless spatial search architectures and custom data structures that prevent algorithmic memory explosion in multi-agent navigation.
+- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures with cache-conscious layouts (DOD) eliminating tick-budget and latency bottlenecks.
+- **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, Decision Trees, Random Forests, Clustering, and KNN for biological, relational, and temporal datasets.
 - **Simulation & Game Engine Systems** — Architectural experience with Unreal Engine, spatial navigation, tick budgets, and visual scripting.
-- **Distributed Streaming & Full-Stack Infrastructure** — Building ultra-fast streaming data ingestion pipelines (WIaaS) and full-stack web platforms.
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### Primary Languages
-- **Python** — Machine learning (PyTorch, PyG), continuous-time graph models, statistical modeling, data pipelines
+- **Python** — Neurotech modeling (PyTorch, PyG), continuous-time graph models, statistical pipelines
 - **C** — Low-level memory management, high-performance algorithm implementation, spatial data structures
 - **Java** — Object-oriented architecture, backend services, enterprise application structure
 - **JavaScript** — Full-stack web platforms, client-side dynamics, API routing
 - **SQL** — Relational database modeling, query optimization, analytics persistence
 - **Unreal Engine Visual Scripting (Blueprints)** — Real-time gameplay logic, event dispatchers, simulation mechanics
 
-### Machine Learning, Deep Learning & Mathematics
-- **Deep Learning:** Graph Neural Networks (GNNs), Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Continuous-Time SSMs
+### Machine Learning, Neurotech & Mathematics
+- **Neurotech & Deep Learning:** Continuous-Time Graph Neural Networks (RT-GNN), Synaptic Connectivity Modeling (*C. elegans* Connectome), Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), Continuous-Time SSMs
 - **Classical ML & Statistics:** Linear/Logistic Regression, Decision Trees, Random Forests, K-Nearest Neighbors (KNN), K-Means Clustering, Hierarchical Clustering
 - **Time-Series & Forecasting:** ARIMA, Multi-Harmonic Fourier Encodings, Autoregressive Dynamics
 - **Frameworks & Libraries:** `PyTorch`, `PyTorch Geometric (PyG)`, `NumPy`, `SciPy`, `pandas`, `Scikit-Learn`
@@ -94,7 +93,19 @@ I also use collaborative design tools like **Figma and Miro** to map out system 
 
 ## 🏆 Co-Flagship Research Projects
 
-### 🗺️ 1. Clustered Vertex Representative Search (CVRS)
+### 🧠 1. [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+> *Born from C. elegans synapse prediction: Resolving the continuous-time memory bottleneck in neural dynamics.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+
+- **The Neurotech Origin**: Conceived while building a synapse prediction system for *C. elegans*. Existing models could not capture continuous-time spike intervals and synaptic plasticity without unrolling entire graphs into memory.
+- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
+- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
+- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
+- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient preservation.
+
+---
+
+### 🗺️ 2. Clustered Vertex Representative Search (CVRS)
 > *High-performance spatial pathfinding architecture engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.*
 [![Research](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
 
@@ -107,23 +118,12 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 
 ---
 
-### 🧠 2. [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-> *Resolving the fundamental memory and scaling bottleneck in continuous-time temporal graph learning.*
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-
-- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
-- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
-- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
-- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient preservation.
-
----
-
 ## 🎖️ Quest Log & Achievements
 
 | Rank | Achievement Badge | Quest Objective & Impact | Status |
 | :---: | :--- | :--- | :---: |
+| 💎 | **[Neurotech Architect]** | Solve *C. elegans* continuous synaptic prediction bottlenecks by inventing RT-GNN semigroup rotations. | **UNLOCKED** |
 | 💎 | **[Sortingless Champion]** | Formulate CVRS pathfinding, eliminating $O(V \log V)$ priority queue memory explosion for multi-agent simulation. | **UNLOCKED** |
-| 💎 | **[Semigroup Alchemist]** | Engineer closed-form complex rotation operators $T_{\Delta t}$ & $O(\log K)$ prefix scans in continuous-time graph AI. | **UNLOCKED** |
 | 🥇 | **[Leakage Slayer]** | Eradicate all 3 evaluation leakage channels on Stanford TGB benchmarks, certifying true inductive generalization. | **UNLOCKED** |
 | 🥇 | **[Tick-Budget Architect]** | Build low-level C memory structures preserving real-time simulation frame rates in Unreal Engine. | **UNLOCKED** |
 | 🥇 | **[35/35 Test Gatekeeper]** | Architect an exhaustive formal verification suite validating mathematical decay, semigroup, and gradient flow. | **UNLOCKED** |
@@ -205,5 +205,5 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 ---
 
 <div align="center">
-  <sub>🕹️ Level 99 System Designer &amp; ML Research Engineer • Pioneering continuous-time graph AI and sortingless autonomous pathfinding.</sub>
+  <sub>🧬 Level 99 Systems &amp; Neurotech Engineer • Unlocking biological intelligence through first-principles systems design.</sub>
 </div>
