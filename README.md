@@ -3,7 +3,7 @@
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Flagship+Research%3A+CVRS+Autonomous+Pathfinding;System+Design+%26+ML+Research+Engineer;Python+%26+C+Systems+Specialist;Breaking+the+Memory+Barrier+in+Spatial+Search;Game+Dev+(Unreal+Engine)+to+Graph+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Flagship+Research%3A+RT-GNN+%26+CVRS+Pathfinding;System+Design+%26+ML+Research+Engineer;Python+%26+C+Specialist;Continuous-Time+Graph+AI+%26+Sortingless+Search;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,29 +22,31 @@
 
 ## 🧩 About Me
 
-I am a **System Designer and Machine Learning Research Engineer** focusing on breaking computational and memory barriers in spatial pathfinding, graph intelligence, and autonomous systems.
+I am a **System Designer and Machine Learning Research Engineer** dedicated to breaking fundamental computational and memory barriers across two core domains: **Continuous-Time Graph Neural Networks** and **Autonomous Spatial Pathfinding**.
 
-My primary research and engineering project is **CVRS (Clustered Vertex Representative Search)**—an architecture built to eliminate the memory explosion problem in autonomous pathfinding by leveraging sortingless graph theory.
+My two flagship research projects are:
+1. **RT-GNN (Time-Parameter for GNN)** — Eliminating the memory bottleneck and whole-graph traversal overhead in continuous-time temporal graph learning.
+2. **CVRS (Clustered Vertex Representative Search)** — Bypassing the priority-queue sorting memory barrier in autonomous multi-agent pathfinding.
 
-My technical journey started in **Unreal Engine game development**, programming in **C** and **Visual Scripting (Blueprints)**. In real-time game engines, pathfinding thousands of dynamic entities under strict 16ms frame-time budgets immediately reveals where traditional algorithms fail: priority-queue sorting and open/closed sets consume massive memory and cause cache thrashing. By connecting cutting-edge theoretical graph research (Duan et al.'s sortingless algorithms) with practical systems engineering, I design algorithms that bound memory without sacrificing search fidelity.
+My technical foundation began in **Unreal Engine game development**, programming in **C** and **Visual Scripting (Blueprints)**. In real-time simulation engines, managing tick budgets and memory layouts is critical. While conventional ML workflows often treat hardware as an infinite resource, my systems background allows me to solve problems from a first-principles architectural perspective: designing algorithms that strictly bound memory without sacrificing accuracy.
 
-I bridge these spatial foundations with deep learning and statistical modeling—spanning **Graph Neural Networks (GNNs), CNNs, ANNs, time-series forecasting (ARIMA), and classical ML (Random Forests, Clustering, KNN)**—working primarily in **Python** and **C**.
+I bridge these foundations across **Graph Neural Networks (GNNs), CNNs, ANNs, time-series forecasting (ARIMA), and classical ML (Random Forests, Clustering, KNN)**—working primarily with **Python** and **C**, with extensive experience in **Java**, **JavaScript**, and **SQL**.
 
 I also use collaborative design tools like **Figma and Miro** to map out system architectures, state machines, and data lifecycles with cross-functional teams prior to implementation.
 
 ### Research & Engineering Focus
-- **Autonomous Pathfinding & Spatial Architecture (CVRS)** — Developing sortingless graph search architectures that eliminate priority-queue bottlenecks and bound memory consumption during large-scale spatial navigation.
-- **Graph Neural Networks & Temporal Systems** — Designing continuous-time state-space models (SSMs) and parallel associative prefix scans (RT-GNN) that eliminate recursive graph traversals.
+- **Continuous-Time Graph AI (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans that eliminate redundant graph traversals.
+- **Autonomous Spatial Search (CVRS)** — Developing sortingless graph search architectures that eliminate priority-queue bottlenecks and bound memory during multi-agent navigation.
 - **Low-Level Systems & Memory Optimization** — Writing high-performance C implementations with cache-conscious memory layouts and data-oriented design (DOD).
-- **Deep Learning & Statistical Modeling** — Applying GNNs, CNNs, ANNs, ARIMA time-series forecasting, and ensemble methods to complex relational datasets.
-- **Real-Time Data Ingestion Pipelines** — Engineering streaming pipelines feeding real-time geospatial telemetry into planetary AI models (GraphCast architectures).
+- **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, and ensemble methods for complex relational and temporal datasets.
+- **Real-Time Data Ingestion Pipelines** — Engineering streaming pipelines feeding real-time meteorological feeds into planetary AI models (GraphCast architectures).
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### Primary Languages
-- **Python** — Machine learning (PyTorch, PyG), mathematical prototyping, data pipelines, statistical modeling
+- **Python** — Machine learning (PyTorch, PyG), continuous-time graph models, statistical modeling, data pipelines
 - **C** — Low-level memory management, high-performance algorithm implementation, spatial data structures
 - **Java** — Object-oriented architecture, backend services, enterprise application structure
 - **JavaScript** — Full-stack web platforms, client-side dynamics, API routing
@@ -64,9 +66,20 @@ I also use collaborative design tools like **Figma and Miro** to map out system 
 
 ---
 
-## 🚀 Flagship Research & Featured Projects
+## 🏆 Co-Flagship Research Projects
 
-### 🗺️ [FLAGSHIP] Clustered Vertex Representative Search (CVRS)
+### 🧠 1. [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+> *Resolving the fundamental memory and scaling bottleneck in continuous-time temporal graph learning.*
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
+
+- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
+- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
+- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
+- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient flow.
+
+---
+
+### 🗺️ 2. Clustered Vertex Representative Search (CVRS)
 > *High-performance spatial pathfinding architecture engineered to eliminate the memory barrier in multi-agent autonomous navigation and real-time game simulation.*
 [![Research](https://img.shields.io/badge/Research-Pathfinding_Architecture-blue?style=flat-square)](#)
 
@@ -79,16 +92,7 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 
 ---
 
-### 🧠 [Time-Parameter for Graph Neural Networks (RT-GNN)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-> *Research project resolving the training memory bottleneck in temporal graph neural networks.*
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/BiswadeepInfinity/Time-Parameter-for-GNN)
-
-- **Closed-Form Continuous-Time Rotation**: Bypasses recursive neighborhood traversals via complex state operators $T_{\Delta t}(z) = z \cdot \exp((-\lambda + i\omega)\Delta t)$, maintaining the semigroup property $T(a) \circ T(b) = T(a+b)$.
-- **Logarithmic Parallel Prefix Scans**: Replaces sequential Backpropagation Through Time (BPTT), cutting memory and time scaling from $O(K)$ down to $O(\log K)$ via associative prefix scans.
-- **Benchmark Performance**: Outperformed recurrent baselines (TGN, DyRep) processing over **19,300+ edges/sec** on CPU while scoring **0.475+ Test MRR** on Stanford/TGB Wikipedia benchmarks.
-- **Mathematical Invariant Verification**: Wrote an automated testing suite of **35 test gates** certifying causality, contractive norm decay, and autograd gradient flow.
-
----
+## 🚀 Supporting Featured Projects
 
 ### ⛈️ [Weather Intelligence as a Service (WIaaS)](https://github.com/BiswadeepInfinity/-Weather-Intelligence-as-a-Service-WIaaS-)
 > *High-performance data ingestion pipeline feeding streaming weather data into planetary AI models.*
@@ -141,9 +145,9 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 
 <br/>
 
-### 🎯 Overview & Languages
+### 🎯 Development Profile & Commit Cadence
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BiswadeepInfinity&theme=tokyonight" width="49%" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiswadeepInfinity&theme=tokyonight" width="49%" alt="Language Breakdown" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiswadeepInfinity&theme=tokyonight" width="49%" alt="Productive Time" />
 
 <br/>
 
@@ -156,5 +160,5 @@ Traditional shortest-path algorithms (like Dijkstra, A*, and hierarchical varian
 ---
 
 <div align="center">
-  <sub>Bridging mathematical graph theory and sortingless pathfinding with low-latency systems engineering.</sub>
+  <sub>Pioneering continuous-time graph AI and sortingless autonomous pathfinding through first-principles system design.</sub>
 </div>
