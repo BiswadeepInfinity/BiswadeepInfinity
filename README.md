@@ -1,7 +1,7 @@
 <div align="center">
 
-# ⚡ BISWADEEP
-### Systems & Neurotech Engineer • Neurocognition Researcher
+# ⚡ BISWADEEP CHAKRABORTY
+### Systems & ML/DL Engineer • Neurocognition Researcher
 
 <!-- Minimal Fira Code Tagline -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Core+Focus%3A+Systems%2C+Neurotech+%26+Neurocognition;The+Inquiry%3A+Understanding+How+Cognition+Understands;C.+elegans+Synaptic+Dynamics+%E2%86%92+Continuous-Time+GNNs;Memory-Bounded+Pathfinding+(CVRS)+%26+Semigroup+AI+(RT-GNN);Python+(Primary)+%26+C+(Systems)+Specialist" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 
 ## 🧬 About Me
 
-I work at the convergence of **Low-Level Systems Engineering, Neurotechnology, and Neurocognition**, driven by a foundational inquiry: ***understanding how biological cognitive systems understand***.
+I work between **Low-Level Systems Engineering, Neurotechnology, and Neurocognition**, driven by a foundational question: ***understanding how biological cognitive systems understand***.
 
 My primary research niche and major focus lie in **Systems, Neurotech & Neurocognition**. I am fascinated by the mechanics of biological information routing, synaptic memory formation, and the dynamical principles that govern cognitive emergence. While engineering a **continuous-time synapse prediction system for the *Caenorhabditis elegans* (*C. elegans*) connectome** to model cognitive and sensorimotor neural signaling, I encountered a critical architectural roadblock: conventional graph neural networks (GNNs) and recurrent models suffered from catastrophic memory overhead and temporal aliasing when attempting to track continuous-time spike intervals and synaptic plasticity without unrolling entire graphs into memory. To overcome this, I formulated **RT-GNN (Time-Parameter for GNNs)**—introducing continuous-time complex rotation semigroups that model biological synaptic decay and cognitive state transitions in closed form.
 
