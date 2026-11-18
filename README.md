@@ -3,13 +3,13 @@
 # ⚡ BISWADEEP (BiswadeepInfinity)
 
 <!-- Static Headline with Exact Same Fira Code Cyan Font -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=650&lines=System+Designer+%26+ML+Research+Engineer" alt="System Designer & ML Research Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=10000000&color=38BDF8&center=true&vCenter=true&width=750&lines=System+Designer+%26+ML+Research+Engineer" alt="System Designer & ML Research Engineer" />
 
 <br/>
 
 <!-- Dynamic Cycling Animation Below Static Header -->
 <a href="https://github.com/BiswadeepInfinity">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&lines=Co-Flagship+Research%3A+RT-GNN+%26+CVRS+Pathfinding;Continuous-Time+Graph+AI+%26+Sortingless+Search;Python+%26+C+Specialist;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Co-Flagship+Research%3A+CVRS+Pathfinding+%26+RT-GNN;Sortingless+Spatial+Search+%26+Continuous-Time+Graph+AI;Python+%26+C+Specialist+%7C+Java+%7C+JS+%7C+SQL;Game+Dev+(Unreal+Engine)+to+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -41,11 +41,12 @@ I bridge these foundations across **Graph Neural Networks (GNNs), CNNs, ANNs, ti
 I also use collaborative design tools like **Figma and Miro** to map out system architectures, state machines, and data lifecycles with cross-functional teams prior to implementation.
 
 ### Research & Engineering Focus
-- **Continuous-Time Graph AI (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans that eliminate redundant graph traversals.
-- **Autonomous Spatial Search (CVRS)** — Developing sortingless graph search architectures that eliminate priority-queue bottlenecks and bound memory during multi-agent navigation.
-- **Low-Level Systems & Memory Optimization** — Writing high-performance C implementations with cache-conscious memory layouts and data-oriented design (DOD).
-- **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, and ensemble methods for complex relational and temporal datasets.
-- **Real-Time Data Ingestion Pipelines** — Engineering streaming pipelines feeding real-time meteorological feeds into planetary AI models (GraphCast architectures).
+- **Memory-Bounded Systems & Pathfinding (CVRS)** — Designing sortingless spatial search architectures and custom data structures that prevent algorithmic memory explosion.
+- **Continuous-Time Graph AI & Dynamics (RT-GNN)** — Formulating closed-form complex rotation semigroups and logarithmic parallel associative prefix scans that eliminate redundant graph traversals.
+- **Low-Level Systems & Memory Optimization** — Writing high-efficiency C architectures with cache-conscious memory layouts and data-oriented design (DOD) to eliminate tick budget and latency bottlenecks.
+- **Machine Learning & Time-Series Modeling** — GNNs, CNNs, ANNs, ARIMA forecasting, Decision Trees, Random Forests, Clustering, and KNN for complex relational and temporal datasets.
+- **Simulation & Game Engine Systems** — Architectural experience with Unreal Engine, spatial navigation, tick budgets, and visual scripting.
+- **Distributed Streaming & Full-Stack Infrastructure** — Building ultra-fast streaming data ingestion pipelines (WIaaS) and full-stack web platforms.
 
 ---
 
