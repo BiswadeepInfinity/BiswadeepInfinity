@@ -20,6 +20,13 @@
 
 ---
 
+<!-- Synaptic Tetris Block (Clean, No Top Text Bar) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BiswadeepInfinity/BiswadeepInfinity/main/dist/synapse-tetris-matrix.svg" alt="Synaptic Tetris Block" width="100%" />
+</div>
+
+---
+
 ## About Me
 
 I work at the intersection of **low-level systems engineering** and **neurotechnology / computational neurocognition**. My core interest is understanding biological computation—how neural networks process, store, and route information.
