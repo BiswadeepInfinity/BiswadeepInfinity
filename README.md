@@ -47,7 +47,7 @@
 
 ## 🧬 About Me
 
-I work at the convergence of **Low-Level Systems Engineering and Neurotechnology**, driven by a foundational inquiry: ***understanding how biological intelligence understands***.
+I work between **Low-Level Systems Engineering and Neurotechnology**, driven by a foundational question: ***understanding how biological intelligence understands***.
 
 My primary major and research dedication center on **Systems & Neurotech**. While engineering a **synapse prediction system for *Caenorhabditis elegans* (*C. elegans*)** to model continuous biological synaptic plasticity and neural information routing, I ran directly into a fundamental architectural roadblock: conventional graph neural networks (GNNs) and recurrent models suffered from catastrophic memory explosion when tracking continuous-time synaptic interactions across the connectome. To break this bottleneck, I formulated **RT-GNN (Time-Parameter for GNNs)**—introducing continuous-time complex rotation semigroups that model biological synaptic decay and temporal plasticity without recursive neighborhood expansions.
 
