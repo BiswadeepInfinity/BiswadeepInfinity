@@ -1,6 +1,6 @@
 <div align="center">
 
-# Biswadeep
+# Biswadeep Chakraborty
 ### Systems & Neurotech Engineer
 
 <!-- Clean Typing Tagline -->
