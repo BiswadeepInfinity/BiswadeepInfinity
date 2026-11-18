@@ -3,7 +3,7 @@
 # Hey, I'm Biswadeep 👋
 
 ### **Student, System Designer & Software Developer**
-**Mainly working with Python & C • Product Design & Collaborative Architecture**
+**Core Languages: Python • Java • JavaScript • C • SQL • Unreal Engine Visual Scripting**
 
 ```text
 Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Systems
@@ -21,28 +21,38 @@ Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Syst
 
 I'm a developer and system designer who loves figuring out how complex software actually works under the hood. 
 
-My journey started with **game development inside Unreal Engine**. Building games taught me how to respect memory, handle real-time performance, and think about systems as a whole rather than isolated pieces. 
+My journey started with **game development inside Unreal Engine** using both **C** and **Visual Scripting (Blueprints)**. Building games taught me how to respect memory, handle real-time performance, and think about systems as a whole rather than isolated pieces. 
 
-Later, I shifted into **machine learning, algorithms, and full-stack development**. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev background in **C** and low-level performance, I like looking at problems differently—connecting ideas across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
+Later, I shifted into **machine learning, algorithms, and full-stack development** using **Python**, **Java**, and **JavaScript**, backed by structured **SQL** databases. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev and systems background, I like looking at problems differently—connecting concepts across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
 
-I also place huge emphasis on **collaborative design**: mapping out architectures, user flows, and wireframes in tools like **Figma and Miro** with teammates before touching code, ensuring what we build is intuitive and structurally sound.
+I also place huge emphasis on **collaborative design**: mapping out architectures, user flows, and wireframes in tools like **Figma and Miro** with teammates before writing code, ensuring what we build is intuitive and structurally sound.
 
 ### What I Work On
-- **Python & C**: My two most-used languages. I use C when performance and memory matter, and Python for machine learning and fast prototyping.
+- **Primary Languages**: Developing software daily across **Python**, **Java**, **JavaScript**, **C**, and **SQL**, alongside **Visual Scripting in Unreal Engine**.
 - **Graph Neural Networks (GNNs)**: Finding practical ways to stop GNNs from running out of memory on big graphs.
 - **Pathfinding & AI**: Building search algorithms that let entities navigate simulated worlds without lag spikes.
-- **Design & Collaborative Architecture**: Wireframing, user-flow planning, and whiteboard system design alongside teams.
-- **Full-Stack & Web**: Building functional web apps with real databases, authentication, and clean APIs.
+- **Design & Collaborative Architecture**: Wireframing, user-flow planning, and whiteboard system design alongside teams in Figma and Miro.
+- **Full-Stack & Web Applications**: Building functional web apps with relational databases, secure authentication, and clean APIs.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages I Use Most:** `Python`, `C`
-- **Other Languages I Know:** `C++`, `Java`, `TypeScript`, `JavaScript`, `SQL`
-- **Libraries & Tech:** `PyTorch`, `PyTorch Geometric`, `NumPy`, `pandas`, `Unreal Engine 5`, `Git`
-- **Design & Whiteboarding:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
-- **Collaboration & Workflow:** Linux / Windows, Cross-functional teamwork, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google & Microsoft tools.
+### Primary Languages
+- **Python** — Machine learning, data pipelines, backend prototyping, scientific scripting
+- **C** — Low-level memory management, high-performance algorithms, system architecture
+- **Java** — Object-oriented architecture, backend systems, robust application logic
+- **JavaScript** — Full-stack web development, dynamic client-side applications, APIs
+- **SQL** — Relational database modeling, query optimization, data persistence
+- **Unreal Engine Visual Scripting (Blueprints)** — Rapid gameplay logic, node-based event flows, interactive systems
+
+### Other Languages & Frameworks
+- `C++`, `TypeScript`
+- `PyTorch`, `PyTorch Geometric`, `NumPy`, `pandas`, `Unreal Engine 5`, `Git`
+
+### Design & Collaborative Work
+- **Design Tools:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
+- **Team Collaboration & Tools:** Linux / Windows, Git version control, Agile team workflows, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google Workspace, Microsoft 365.
 
 ---
 
@@ -52,7 +62,7 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 > *A lightweight GNN approach that fixes the memory bottleneck in dynamic graph learning.*
 
 - Standard Temporal GNNs have to traverse the whole graph history, which blows up training memory on large graphs.
-- Built a model that tracks time gaps mathematically using continuous rotation, cutting down memory and skipping heavy recursive steps.
+- Built a model in Python & PyTorch that tracks time gaps mathematically using continuous rotation, cutting down memory and skipping heavy recursive steps.
 - Runs super fast on regular CPUs (~19,000+ edges/sec) while still getting competitive accuracy on standard benchmarks.
 - Wrote a 35-test automated testing suite to verify that math invariants and causality never leak.
 
@@ -63,7 +73,7 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 
 - Inspired by research on sortingless shortest-path algorithms (Duan et al.).
 - Traditional pathfinding (like A* or Dijkstra) slows down and eats memory when hundreds of agents navigate at once because of priority queue sorting.
-- Grouping vertices into clustered representatives keeps memory usage bounded so simulated agents can find paths smoothly.
+- Implemented in C: grouping vertices into clustered representatives keeps memory usage bounded so simulated agents can find paths smoothly in game environments.
 
 ---
 
@@ -79,8 +89,8 @@ I also place huge emphasis on **collaborative design**: mapping out architecture
 ### 🍿 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
 > *A full-stack pop-culture review and socializing web app.*
 
-- Designed user flows and UI components collaboratively before implementing the backend and frontend.
-- Built a complete web application with working user authentication, login sessions, and profile pages.
+- Designed user flows and UI components collaboratively in Figma before implementing the stack.
+- Built a complete web application with working user authentication, login sessions, and profile pages using JavaScript and SQL.
 - Designed a relational database to store users, movie/pop-culture reviews, ratings, and social interactions.
 - Clean front-end interface backed by working backend routes and database queries.
 
