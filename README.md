@@ -3,7 +3,7 @@
 # Hey, I'm Biswadeep 👋
 
 ### **Student, System Designer & Software Developer**
-**Mainly working with Python & C**
+**Mainly working with Python & C • Product Design & Collaborative Architecture**
 
 ```text
 Game Dev Origins (Unreal Engine) ➔ Graph Neural Networks ➔ Full-Stack & Systems
@@ -25,10 +25,13 @@ My journey started with **game development inside Unreal Engine**. Building game
 
 Later, I shifted into **machine learning, algorithms, and full-stack development**. A lot of people in ML stick strictly to existing libraries without worrying about memory limits or systems architecture. Because of my game dev background in **C** and low-level performance, I like looking at problems differently—connecting ideas across game engines, algorithms, and AI to build lightweight, practical software that doesn't waste resources.
 
+I also place huge emphasis on **collaborative design**: mapping out architectures, user flows, and wireframes in tools like **Figma and Miro** with teammates before touching code, ensuring what we build is intuitive and structurally sound.
+
 ### What I Work On
 - **Python & C**: My two most-used languages. I use C when performance and memory matter, and Python for machine learning and fast prototyping.
 - **Graph Neural Networks (GNNs)**: Finding practical ways to stop GNNs from running out of memory on big graphs.
 - **Pathfinding & AI**: Building search algorithms that let entities navigate simulated worlds without lag spikes.
+- **Design & Collaborative Architecture**: Wireframing, user-flow planning, and whiteboard system design alongside teams.
 - **Full-Stack & Web**: Building functional web apps with real databases, authentication, and clean APIs.
 
 ---
@@ -38,7 +41,8 @@ Later, I shifted into **machine learning, algorithms, and full-stack development
 - **Languages I Use Most:** `Python`, `C`
 - **Other Languages I Know:** `C++`, `Java`, `TypeScript`, `JavaScript`, `SQL`
 - **Libraries & Tech:** `PyTorch`, `PyTorch Geometric`, `NumPy`, `pandas`, `Unreal Engine 5`, `Git`
-- **How I Work:** Linux / Windows, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Miro, Google & Microsoft tools.
+- **Design & Whiteboarding:** `Figma`, `Miro`, `Canva`, `System Architecture Diagramming`, `UI/UX Wireframing`
+- **Collaboration & Workflow:** Linux / Windows, Cross-functional teamwork, AI-assisted development (vibe coding & prompt engineering), Discord, Slack, Google & Microsoft tools.
 
 ---
 
@@ -75,6 +79,7 @@ Later, I shifted into **machine learning, algorithms, and full-stack development
 ### 🍿 [Infinity Socials](https://github.com/BiswadeepInfinity/Infinity-Socials)
 > *A full-stack pop-culture review and socializing web app.*
 
+- Designed user flows and UI components collaboratively before implementing the backend and frontend.
 - Built a complete web application with working user authentication, login sessions, and profile pages.
 - Designed a relational database to store users, movie/pop-culture reviews, ratings, and social interactions.
 - Clean front-end interface backed by working backend routes and database queries.
@@ -93,5 +98,5 @@ Later, I shifted into **machine learning, algorithms, and full-stack development
 ---
 
 <div align="center">
-  <sub>Always learning, building, and exploring new systems.</sub>
+  <sub>Always learning, building, designing, and exploring new systems.</sub>
 </div>
