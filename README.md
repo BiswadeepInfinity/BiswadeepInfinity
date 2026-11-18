@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ BISWADEEP
+# ⚡ BISWADEEP CHAKRABORTY
 ### Systems & Neurotech Engineer
 
 <!-- Minimal Fira Code Tagline -->
