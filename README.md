@@ -33,9 +33,6 @@ I work between **low-level systems engineering** and **neurotechnology / computa
 
 While developing a continuous-time synapse prediction model for the *C. elegans* connectome, I hit a major bottleneck with existing temporal Graph Neural Networks: modeling continuous-time synaptic interactions and spike intervals caused severe memory explosion due to recursive graph traversals. To solve this, I created **RT-GNN (Time-Parameter for GNN)**, using continuous-time complex rotation operators to track synaptic state transitions in closed form with logarithmic scaling.
 
-My systems work is also grounded in real-time simulation and game engines:
-- **CVRS (Clustered Vertex Representative Search)** — a sortingless spatial pathfinding architecture implemented in C for Unreal Engine 5, eliminating priority-queue bottlenecks and bounding memory during multi-agent navigation.
-
 I primarily program in **Python** (machine learning, PyTorch, PyG) and **C** (memory optimization, data structures), with working experience in **Java**, **JavaScript**, **SQL**, and **Unreal Engine Visual Scripting (Blueprints)**. Prior to implementation, I use **Figma** and **Miro** for system architecture mapping and collaborative workflows.
 
 ---
