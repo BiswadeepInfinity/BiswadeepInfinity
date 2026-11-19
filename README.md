@@ -29,7 +29,7 @@
 
 ## About Me
 
-I work at the intersection of **low-level systems engineering** and **neurotechnology / computational neurocognition**. My core interest is understanding biological computation—how neural networks process, store, and route information.
+I work between **low-level systems engineering** and **neurotechnology / computational neurocognition**. My core interest is understanding biological computation—how neural networks process, store, and route information.
 
 While developing a continuous-time synapse prediction model for the *C. elegans* connectome, I hit a major bottleneck with existing temporal Graph Neural Networks: modeling continuous-time synaptic interactions and spike intervals caused severe memory explosion due to recursive graph traversals. To solve this, I created **RT-GNN (Time-Parameter for GNN)**, using continuous-time complex rotation operators to track synaptic state transitions in closed form with logarithmic scaling.
 
